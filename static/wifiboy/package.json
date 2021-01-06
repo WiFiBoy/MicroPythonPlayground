@@ -1,0 +1,13 @@
+{
+    "name": "PythonPlayground",
+    "version": "1.0.1",
+    "main": "index.html",
+    "window": {
+        "icon":"./img/icon_256.png",
+        "frame": false,
+        "width": 1024,
+        "height": 600,
+        "min_width": 420,
+        "min_height": 200
+    }
+}
