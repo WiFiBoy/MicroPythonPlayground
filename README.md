@@ -29,7 +29,7 @@ $ nw .
 ```
 
 <p align=center>
-	<img src="static/wifiboys.jpg" width="90%" height="90%"/>
+	<img src="static/wifiboys.jpeg" width="90%" height="90%"/>
 </p>
 
 
