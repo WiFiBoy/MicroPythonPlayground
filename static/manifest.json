@@ -1,0 +1,21 @@
+{
+  "name": "Python Playground",
+  "description": "Python Playground for WiFiBoy",
+  "version": "1.0.1",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "permissions" : [
+    "serial",
+    {"fileSystem": ["write", "retainEntries", "directory"]},
+    "storage",
+    "http://*/",
+    "https://*/"
+  ],
+  "manifest_version": 2,
+  "icons": {
+    "256": "./img/icon_256.png"
+  } 
+}
