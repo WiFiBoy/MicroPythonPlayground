@@ -6,6 +6,7 @@
 MicroPython Playground integrates Google Blockly, CodeMirror editor and Xterm.js with NW.js/Vue.js to build a REPL IDE for MicroPython developers.
 
 <p align=center>
+	<img src="static/okesp32.png" width="60%" height="60%"/><br><br>
 	<img src="static/snapshot.png" width="80%" height="80%"/>
 </p>
 
